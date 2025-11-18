@@ -1,0 +1,18 @@
+{
+  "validUser": {
+    "firstName": "John",
+    "lastName": "Smith",
+    "phoneNumber": "5145551234",
+    "province": "Ontario",
+    "email": "test@nesto.com",
+    "password": "Password123!",
+    "confirmPassword": "Password123!"
+  },
+  "mismatchedPasswordUser" : {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "jane.doe@nesto.com",
+      "password": "Password123!",
+      "confirmPassword": "DifferentPassword123!"
+    }
+}

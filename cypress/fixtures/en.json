@@ -1,0 +1,20 @@
+{
+  "signup": {
+    "title": "Create a nesto account"
+  },
+  "labels": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "phone": "Phone number",
+    "province": "Province of purchase",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password"
+  },
+  "buttons": {
+    "createAccount": "Create your account"
+  },
+  "errors": {
+    "passwordMismatch": "Passwords do not match"
+  }
+}

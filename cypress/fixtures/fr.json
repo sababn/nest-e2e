@@ -1,0 +1,20 @@
+{
+  "signup": {
+    "title": "Créez votre compte"
+  },
+  "labels": {
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "phone": "Téléphone",
+    "province": "Province de l'achat",
+    "email": "Courriel",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmation du mot de passe"
+  },
+  "buttons": {
+    "createAccount": "Créez votre compte"
+  },
+  "errors": {
+    "passwordMismatch": "Les mots de passe ne correspondent pas"
+  }
+}
